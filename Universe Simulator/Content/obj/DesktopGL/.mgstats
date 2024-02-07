@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Dilly/source/repos/Universe Simulator/Universe Simulator/Content/Font.spritefont","C:/Users/Dilly/source/repos/Universe Simulator/Universe Simulator/Content/bin/DesktopGL/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2069,13343,0.2032701
+"C:/Users/Dilly/source/repos/Universe Simulator/Universe Simulator/Content/Font16_42_Normal4_sheet.png","C:/Users/Dilly/source/repos/Universe Simulator/Universe Simulator/Content/bin/DesktopGL/pixelfont.xnb","TextureProcessor","Texture2DContent",221091,1048661,0.1442846

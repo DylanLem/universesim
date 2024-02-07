@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Universe Simulator", "Universe Simulator\Universe Simulator.csproj", "{D668D0E0-3493-4E9C-9712-88ED2DC2F05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D668D0E0-3493-4E9C-9712-88ED2DC2F05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D668D0E0-3493-4E9C-9712-88ED2DC2F05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D668D0E0-3493-4E9C-9712-88ED2DC2F05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D668D0E0-3493-4E9C-9712-88ED2DC2F05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E50C7B8-7775-49A9-AAB7-0E5C66ACF2F2}
+	EndGlobalSection
+EndGlobal
